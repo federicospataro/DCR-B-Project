@@ -1,0 +1,60 @@
+DCRB
+
+____level1
+    -   Academy of Motion Picture Arts and Sciences.txt
+    -   Actuarial science.txt
+    -   Agricultural science.txt
+    -   Atmospheric science.txt
+    -   Bachelor of Science.txt
+    -   Bachelor of Social Science.txt
+    -   Biology.txt
+    -   Botany.txt
+    -   Branches of science.txt
+    -   Chemistry.txt
+    -   Computer science and engineering.txt
+    -   Computer science.txt
+       
+    ____level2
+        -   Cult.txt
+        -   Data science.txt
+        -   Defence Science and Technology Agency.txt
+        -   Egypt.txt
+        -   Engineering.txt
+        -   Forensic science.txt
+        -   Geology.txt
+        -   Hard and soft science.txt
+        -   Imperial College London.txt
+        -   Index of branches of science.txt
+        -   Italians States.txt
+        -   January-March 2023 in science.txt
+        -   List of letters used in mathematics, science, and engineering.txt
+        -   Lists of important publications in science.txt
+        -   Lists of unsolved problems.txt
+        -   Master of Science.txt
+           
+        ____level3
+            -   Materials science.txt
+            -   Mathematical sciences.txt
+            -   Medicina.txt
+            -   National Natural Science Foundation of China.txt
+            -   Natural science.txt
+            -   Nature (journal).txt
+            -   Nature and Organisation.txt
+            -   Nature Portfolio.txt
+            -   Nature reserve.txt
+            -   Nature.txt
+            -   Neuroscience.txt
+            -   Outline of physical science.txt
+            -   Philosophy of science.txt
+               
+            ____level4
+                -   Political science.txt
+                -   Pseudoscience.txt
+                -   Science (journal).txt
+                -   Science fiction.txt
+                -   Science of team science.txt
+                -   Social science.txt
+                -   Springer Science+Business Media.txt
+                -   United States.txt
+                -   Web of Science.txt
+                    
