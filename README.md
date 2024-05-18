@@ -1,5 +1,10 @@
 # DCR-B-Project
 
+![MySql](https://img.shields.io/badge/Database-MySQL-brightgreen)
+![Python](https://img.shields.io/badge/Code-Python-blue)
+
+Educational project to build a search facility on a subtree of a local file system.
+
 - The schema of the database, in SQL ddl [» schemaDDL.sql «](schemaDDL.sql)
 - The developed code for loading the database [» script_build.py «](script_build.py)
 - The developed code for the search engine [» script_search.py «](script_search.py)
